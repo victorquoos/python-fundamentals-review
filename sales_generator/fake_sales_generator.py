@@ -1,5 +1,10 @@
 import random
 from datetime import datetime, timedelta
+import csv
+from pathlib import Path
+
+SCRIPT_DIR = Path(__file__).parent
+FILENAME = SCRIPT_DIR / 'sales.csv'
 
 CUSTOMERS = [
     "A001", "A002", "A003", "A004",
@@ -53,16 +58,30 @@ def generate_random_sale() -> dict:
         "customer_id": customer_id,
         "product_name": product[0],
         "category": product[1],
-        "price": product[2] * random_variation,
+        "price": round(product[2] * random_variation, 2),
         "date": random_date
     }
 
     return sale
 
 
+def save_sales_data(sales: list[dict]) -> None:
+    """
+    Writes a list of sales dictionaries to a CSV file.
+    """
+    if not sales:
+        return
+
+    with open(FILENAME, mode='w', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=sales[0].keys())
+        writer.writeheader()
+        writer.writerows(sales)
+
+
 if __name__ == "__main__":
     random_sales = []
     for i in range(200):
         random_sales.append(generate_random_sale())
+    save_sales_data(random_sales)
     for i in random_sales:
         print(i)
