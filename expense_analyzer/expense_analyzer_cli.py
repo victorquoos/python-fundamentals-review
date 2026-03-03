@@ -1,4 +1,10 @@
 from collections import defaultdict
+import csv
+from pathlib import Path
+
+
+SCRIPT_DIR = Path(__file__).parent
+FILENAME = SCRIPT_DIR / 'expenses.csv'
 
 
 def collect_expenses() -> list[dict]:
@@ -29,6 +35,56 @@ def collect_expenses() -> list[dict]:
             print("Invalid input. Please enter a numeric value.")
 
     return expenses
+
+
+def save_expenses_data(expense_list: list[dict]) -> None:
+    """
+    Saves expense data to a CSV file.
+    Creates the file with headers if it doesn't exist.
+    """
+    if not expense_list:
+        print("No expenses to save.")
+        return
+
+    fieldnames = ['Category', 'Amount']
+    try:
+        file_exists = FILENAME.exists()
+        with open(FILENAME, 'a', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
+            if not file_exists:
+                writer.writeheader()
+            writer.writerows(expense_list)
+        print(f"Saved {len(expense_list)} expense(s) to {FILENAME}")
+    except IOError as e:
+        print(f"Error saving expenses: {e}")
+
+
+def get_expenses_data() -> list[dict]:
+    """
+    Reads expense data from the CSV file.
+    Returns an empty list if the file doesn't exist or is empty.
+    """
+    if not FILENAME.exists():
+        return []
+
+    try:
+        with open(FILENAME, 'r') as file:
+            reader = csv.DictReader(file)
+            data = list(reader)
+
+        for expense in data:
+            # Clean the category name for this session
+            if 'Category' in expense:
+                expense['Category'] = expense['Category'].strip().lower()
+
+            # Convert Amount strings to floats
+            if 'Amount' in expense:
+                expense['Amount'] = float(expense['Amount'])
+
+        return data
+    except (IOError, ValueError) as e:
+        print(f"Error reading expenses file: {e}")
+        return []
 
 
 def analyze_expenses(expenses: list[dict]) -> dict:
@@ -72,9 +128,11 @@ def print_summary(analized_expenses: dict):
         return
 
     print("\n=== Financial Summary ===")
-    # Iterate through the main analysis metrics
+    # Iterate through the analysis metrics
     for key, value in analized_expenses.items():
-        if key != "Total per category":
+        if isinstance(value, (int, float)):
+            print(f"{key}: ${value:,.2f}")
+        else:
             print(f"{key}: {value}")
 
     # Financial health check: Identify "heavy" spending categories
@@ -89,5 +147,7 @@ def print_summary(analized_expenses: dict):
 # --- Main Execution Flow ---
 if __name__ == "__main__":
     raw_data = collect_expenses()
-    analized = analyze_expenses(raw_data)
+    save_expenses_data(raw_data)
+    expenses_data = get_expenses_data()
+    analized = analyze_expenses(expenses_data)
     print_summary(analized)
