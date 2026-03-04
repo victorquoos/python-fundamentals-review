@@ -47,7 +47,7 @@ def get_random_timestamp(since_year=2025) -> str:
 
 def generate_random_sale() -> dict:
     """
-    Simulates a retail transaction with randomized attributes
+    Simulates a retail transaction with randomized attributes.
     """
     customer_id = random.choice(CUSTOMERS)
     product = random.choice(PRODUCTS)
@@ -83,5 +83,3 @@ if __name__ == "__main__":
     for i in range(200):
         random_sales.append(generate_random_sale())
     save_sales_data(random_sales)
-    for i in random_sales:
-        print(i)
