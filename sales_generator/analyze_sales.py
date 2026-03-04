@@ -86,14 +86,20 @@ if __name__ == "__main__":
     sales_data = get_sales_data()
 
     total_revenue = compute_total_revenue(sales_data)
-    print(total_revenue)
-
     revenue_per_category = compute_revenue_per_category(sales_data)
-    print(revenue_per_category)
-
     top_product = compute_top_product(sales_data)
-    print(top_product)
-
     revenue_per_month = compute_revenue_per_month(sales_data)
-    for m, r in revenue_per_month.items():
-        print(f"{m} : {r:.2f}")
+
+    best_month = max(revenue_per_month.items(), key=lambda x: x[1])
+    worst_month = min(revenue_per_month.items(), key=lambda x: x[1])
+    top_category = max(revenue_per_category.items(), key=lambda x: x[1])
+    top_category_proportion = (top_category[1] / total_revenue) * 100
+
+    print("=== Business Insight ===")
+    print(
+        f"The best month was {best_month[0]}, with a total revenue of ${best_month[1]:.2f}")
+    print(
+        f"The worst month was {worst_month[0]}, with a total revenue of ${worst_month[1]:.2f}")
+    print(
+        f"{top_category[0]} represent %{top_category_proportion:.1f} of total revenue. Business is highly dependent on this category")
+    print("========================")
