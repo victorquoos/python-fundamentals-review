@@ -8,6 +8,8 @@ SCRIPT_DIR = Path(__file__).parent
 FILENAME = SCRIPT_DIR / 'sales.csv'
 TIMEFORMAT = "%Y-%m-%d %H:%M:%S"
 
+COST_PERCENT = 0.65
+
 
 def get_sales_data() -> list[dict]:
     """
@@ -82,6 +84,25 @@ def compute_revenue_per_month(data: list[dict]) -> dict[str, float]:
     return dict(revenue)
 
 
+def calculate_profit(value: float, cost_percent=COST_PERCENT) -> float:
+    """
+    Returns the profit of some value based on cost percent
+    """
+    return value - (value * cost_percent)
+
+
+def calculate_profit_per_category(revenue_per_category: dict[str, float]) -> dict[str, float]:
+    """
+    Returns the profit per category based on the cost percent
+    """
+    profit = {category: calculate_profit(revenue)
+              for category, revenue in revenue_per_category.items()}
+
+    profit = dict(sorted(profit.items(), key=lambda x: x[1], reverse=True))
+
+    return profit
+
+
 if __name__ == "__main__":
     sales_data = get_sales_data()
 
@@ -95,6 +116,9 @@ if __name__ == "__main__":
     top_category = max(revenue_per_category.items(), key=lambda x: x[1])
     top_category_proportion = (top_category[1] / total_revenue) * 100
 
+    total_profit = calculate_profit(total_revenue)
+    profit_per_category = calculate_profit_per_category(revenue_per_category)
+
     print("=== Business Insight ===")
     print(
         f"The best month was {best_month[0]}, with a total revenue of ${best_month[1]:.2f}")
@@ -102,4 +126,10 @@ if __name__ == "__main__":
         f"The worst month was {worst_month[0]}, with a total revenue of ${worst_month[1]:.2f}")
     print(
         f"{top_category[0]} represent %{top_category_proportion:.1f} of total revenue. Business is highly dependent on this category")
+    print(
+        f"The total profit of all revenues was ${total_profit:.2f}")
+    print("------------------------")
+    print("Profit per category")
+    for c, p in profit_per_category.items():
+        print(f"{c:<15} ${p:>.2f}")
     print("========================")
