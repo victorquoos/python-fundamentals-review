@@ -1,201 +1,201 @@
 customer_id,product_name,category,price,date
-A004,Coffee Maker,Home,109.42,2025-05-12 11:36:20
-D004,Backpack,Accessories,88.63,2025-11-19 09:01:38
-D003,Laptop Sleeve,Accessories,27.21,2025-06-27 07:10:12
-C004,T-Shirt,Clothing,45.59,2026-02-19 05:33:39
-A002,Running Shorts,Clothing,33.36,2026-02-11 02:26:16
-C004,Bluetooth Speaker,Electronics,52.59,2025-10-31 11:37:27
-B002,Yoga Mat,Fitness,42.81,2025-05-12 16:52:48
-A004,Water Bottle,Accessories,27.12,2026-03-03 14:12:39
-A002,Desk Lamp,Home,40.96,2025-06-15 21:41:20
-B002,Yoga Mat,Fitness,36.84,2025-05-08 11:15:43
-A004,Bluetooth Speaker,Electronics,60.64,2025-12-27 18:04:45
-A001,Coffee Maker,Home,130.74,2026-02-12 17:53:57
-B002,Jeans,Clothing,81.45,2026-02-28 22:54:20
-D001,Backpack,Accessories,85.8,2025-01-07 02:24:25
-C001,Desk Lamp,Home,43.25,2025-01-22 23:03:45
-C001,Water Bottle,Accessories,22.74,2025-03-06 04:19:09
-A003,Desk Lamp,Home,45.09,2025-07-20 22:50:42
-C004,Laptop Sleeve,Accessories,30.51,2025-02-23 02:12:45
-C001,Water Bottle,Accessories,24.6,2025-05-28 14:43:17
-D001,Backpack,Accessories,82.66,2025-03-25 19:32:50
-D003,Sneakers,Shoes,210.01,2025-08-25 18:33:14
-D001,Jeans,Clothing,82.85,2025-11-18 22:59:59
-D003,Water Bottle,Accessories,22.56,2026-02-23 06:31:24
-B002,Coffee Maker,Home,119.13,2025-05-27 09:44:58
-D001,Bluetooth Speaker,Electronics,56.26,2025-04-15 20:30:29
-B002,Backpack,Accessories,84.65,2025-05-29 19:32:45
-C003,Yoga Mat,Fitness,43.27,2026-02-26 04:26:25
-B002,T-Shirt,Clothing,50.48,2025-02-27 18:51:59
-B003,Bluetooth Speaker,Electronics,58.62,2025-06-12 17:57:58
-C002,Running Shorts,Clothing,37.57,2025-07-28 19:03:59
-A004,Jeans,Clothing,76.94,2025-09-02 23:40:47
-C003,Desk Lamp,Home,49.02,2025-11-29 01:20:11
-A002,Bluetooth Speaker,Electronics,56.49,2025-04-03 15:31:58
-A002,Yoga Mat,Fitness,40.68,2026-03-03 06:20:37
-C004,T-Shirt,Clothing,46.05,2025-03-18 02:45:06
-A001,Sneakers,Shoes,191.26,2025-03-25 00:18:52
-D002,Water Bottle,Accessories,24.78,2025-07-18 06:14:30
-C002,Laptop Sleeve,Accessories,32.47,2025-08-15 14:21:36
-B001,Laptop Sleeve,Accessories,32.81,2025-06-19 23:01:56
-C004,Backpack,Accessories,93.62,2025-09-21 00:00:31
-C004,Bluetooth Speaker,Electronics,58.64,2025-12-03 17:07:31
-C003,T-Shirt,Clothing,47.41,2025-08-09 17:47:10
-D001,Coffee Maker,Home,123.08,2025-04-20 06:02:07
-C001,Laptop Sleeve,Accessories,27.92,2025-10-04 20:23:39
-B002,Yoga Mat,Fitness,36.38,2025-09-07 23:22:32
-A001,Desk Lamp,Home,48.17,2025-09-05 14:40:16
-D004,T-Shirt,Clothing,48.76,2025-03-17 00:10:33
-D002,Sneakers,Shoes,201.34,2025-12-21 07:37:53
-A004,Water Bottle,Accessories,26.61,2025-05-09 09:58:14
-A003,Laptop Sleeve,Accessories,28.34,2025-01-26 15:02:05
-A001,T-Shirt,Clothing,53.52,2026-02-16 16:11:38
-B003,Sneakers,Shoes,212.56,2025-08-28 06:38:12
-A002,Jeans,Clothing,73.08,2026-01-12 14:56:23
-A004,Desk Lamp,Home,47.44,2025-05-30 18:21:32
-C004,Backpack,Accessories,84.58,2026-01-14 22:22:53
-A004,Smartphone,Electronics,961.47,2025-10-12 13:45:55
-D002,Bluetooth Speaker,Electronics,56.01,2026-02-18 05:33:12
-D004,T-Shirt,Clothing,53.84,2025-11-08 10:19:11
-A003,T-Shirt,Clothing,53.7,2025-01-31 17:00:22
-A003,Running Shorts,Clothing,34.33,2025-03-13 01:04:31
-C003,Water Bottle,Accessories,25.63,2025-03-10 21:25:39
-C001,Yoga Mat,Fitness,38.52,2025-07-25 03:45:39
-B004,Laptop Sleeve,Accessories,31.51,2025-01-12 21:54:44
-A002,T-Shirt,Clothing,49.21,2025-07-08 05:40:40
-C003,Backpack,Accessories,98.55,2025-06-25 00:59:39
-B002,Running Shorts,Clothing,32.1,2025-08-25 00:19:58
-B001,Smartphone,Electronics,899.43,2026-01-11 00:10:11
-B002,Desk Lamp,Home,41.63,2025-02-05 21:41:23
-A003,T-Shirt,Clothing,53.86,2025-09-23 01:00:41
-B002,Running Shorts,Clothing,34.6,2025-05-28 03:05:30
-C001,Bluetooth Speaker,Electronics,60.04,2025-12-11 01:19:00
-D004,Bluetooth Speaker,Electronics,57.99,2025-04-13 22:32:13
-D001,Bluetooth Speaker,Electronics,55.75,2025-05-07 03:01:46
-B001,Jeans,Clothing,76.38,2025-02-26 13:59:11
-D004,Backpack,Accessories,84.38,2025-04-08 23:20:48
-A002,Running Shorts,Clothing,34.28,2025-07-23 03:43:30
-B003,Yoga Mat,Fitness,42.11,2025-08-10 00:45:51
-D001,Jeans,Clothing,78.35,2025-12-25 05:41:53
-A002,Bluetooth Speaker,Electronics,49.9,2025-10-22 01:39:58
-C002,Yoga Mat,Fitness,37.92,2025-02-19 13:24:56
-A004,Jeans,Clothing,84.2,2025-05-30 12:47:01
-B004,Smartphone,Electronics,858.07,2025-06-26 09:33:53
-D004,Bluetooth Speaker,Electronics,55.13,2025-03-10 23:52:57
-D002,Yoga Mat,Fitness,38.49,2025-06-04 11:23:18
-C001,Desk Lamp,Home,49.02,2025-04-08 10:46:24
-D004,Backpack,Accessories,97.47,2026-01-11 20:51:04
-D002,Jeans,Clothing,73.15,2026-01-20 00:43:18
-C004,Jeans,Clothing,84.41,2025-04-10 05:26:10
-C003,Laptop Sleeve,Accessories,27.28,2025-04-03 09:20:03
-C003,Water Bottle,Accessories,25.07,2025-06-04 04:58:14
-D003,Water Bottle,Accessories,22.6,2026-02-15 03:22:11
-D001,Sneakers,Shoes,191.69,2025-06-11 16:36:29
-B002,Sneakers,Shoes,198.62,2026-02-14 22:06:46
-A003,Backpack,Accessories,96.71,2025-03-25 02:18:39
-B002,Desk Lamp,Home,40.51,2025-04-22 20:20:52
-B003,Backpack,Accessories,94.47,2025-11-05 04:42:47
-C001,Sneakers,Shoes,200.97,2025-04-06 20:09:56
-B003,Bluetooth Speaker,Electronics,55.07,2025-09-13 17:53:59
-D001,T-Shirt,Clothing,47.62,2025-09-06 13:24:04
-B004,Water Bottle,Accessories,24.82,2025-08-22 17:58:53
-B004,Running Shorts,Clothing,32.98,2026-03-02 04:51:45
-B002,Jeans,Clothing,86.12,2026-02-04 14:41:25
-B001,Water Bottle,Accessories,27.34,2026-02-20 09:28:01
-C004,Laptop Sleeve,Accessories,31.0,2025-11-28 08:40:02
-D002,Desk Lamp,Home,44.12,2026-02-08 14:28:35
-C001,Jeans,Clothing,74.11,2025-04-15 12:52:36
-A001,T-Shirt,Clothing,52.46,2025-02-06 04:21:23
-A001,T-Shirt,Clothing,48.33,2026-02-10 10:58:17
-B004,Laptop Sleeve,Accessories,32.49,2025-07-04 13:30:42
-A001,Desk Lamp,Home,48.64,2026-01-14 22:44:57
-B002,Water Bottle,Accessories,26.1,2025-05-04 20:33:39
-D003,Jeans,Clothing,84.14,2025-02-01 16:30:48
-B004,Sneakers,Shoes,203.67,2025-10-28 00:18:58
-D001,Laptop Sleeve,Accessories,27.32,2025-04-05 16:17:39
-C002,Smartphone,Electronics,885.91,2025-07-26 01:16:53
-A003,Water Bottle,Accessories,26.95,2025-05-17 21:50:40
-B002,Running Shorts,Clothing,33.28,2025-08-01 17:49:40
-D003,Jeans,Clothing,83.24,2025-06-13 18:48:14
-A003,Backpack,Accessories,81.65,2026-02-19 13:20:02
-D001,Sneakers,Shoes,201.81,2026-02-25 07:06:42
-C004,Smartphone,Electronics,826.57,2025-03-03 01:48:10
-D002,Bluetooth Speaker,Electronics,53.95,2025-04-04 00:45:05
-C001,Smartphone,Electronics,963.41,2025-05-03 22:45:08
-C002,Smartphone,Electronics,839.62,2025-01-09 06:40:01
-A003,Sneakers,Shoes,182.85,2025-12-29 08:15:31
-D004,Smartphone,Electronics,966.13,2025-10-16 18:03:42
-A003,Backpack,Accessories,82.98,2025-05-25 06:14:20
-A002,Laptop Sleeve,Accessories,30.84,2025-12-01 12:42:32
-D004,Smartphone,Electronics,866.58,2026-01-31 16:52:22
-C003,Coffee Maker,Home,110.21,2025-05-25 16:34:21
-D001,T-Shirt,Clothing,45.26,2025-11-10 07:32:00
-B002,Desk Lamp,Home,41.14,2025-04-12 01:07:37
-D002,Water Bottle,Accessories,25.03,2026-01-27 03:43:50
-A002,Coffee Maker,Home,122.72,2026-02-13 07:41:41
-A002,Bluetooth Speaker,Electronics,54.79,2025-12-15 17:16:55
-D002,Running Shorts,Clothing,32.75,2025-06-05 00:07:24
-B004,Sneakers,Shoes,195.3,2025-02-21 11:18:28
-D004,Laptop Sleeve,Accessories,27.96,2026-01-10 19:31:52
-D004,Jeans,Clothing,77.06,2025-12-03 17:28:37
-D001,Running Shorts,Clothing,36.59,2025-05-26 21:53:45
-D004,Running Shorts,Clothing,37.13,2025-03-15 03:20:10
-B003,Yoga Mat,Fitness,43.2,2025-01-28 18:58:43
-D002,Backpack,Accessories,92.66,2025-03-17 17:10:34
-A002,Bluetooth Speaker,Electronics,52.58,2025-07-31 19:57:31
-D003,Sneakers,Shoes,203.63,2026-02-25 00:37:40
-A002,Smartphone,Electronics,938.53,2026-01-08 02:16:54
-A002,Jeans,Clothing,77.77,2025-07-17 02:07:32
-D004,Backpack,Accessories,94.19,2025-05-25 02:38:24
-B002,Yoga Mat,Fitness,42.36,2025-11-11 09:28:21
-B001,Bluetooth Speaker,Electronics,58.37,2025-07-16 00:27:03
-C003,Desk Lamp,Home,41.91,2025-10-22 17:51:30
-A004,Desk Lamp,Home,44.07,2026-01-08 19:50:08
-C003,Coffee Maker,Home,126.54,2025-07-09 09:10:03
-C003,Yoga Mat,Fitness,43.75,2025-02-18 21:10:37
-C002,Laptop Sleeve,Accessories,28.69,2025-01-30 21:33:53
-B002,T-Shirt,Clothing,52.38,2025-01-21 13:25:02
-A004,Laptop Sleeve,Accessories,27.37,2025-04-27 04:30:31
-A004,T-Shirt,Clothing,47.36,2025-02-28 09:06:53
-A001,Jeans,Clothing,72.74,2025-10-11 02:03:57
-B003,Yoga Mat,Fitness,39.88,2025-10-16 20:34:11
-A002,Bluetooth Speaker,Electronics,59.55,2025-12-21 18:14:16
-A001,T-Shirt,Clothing,47.74,2025-04-29 21:07:03
-A003,Yoga Mat,Fitness,43.59,2026-02-22 08:26:37
-A003,Backpack,Accessories,94.7,2025-07-06 21:52:16
-C001,Backpack,Accessories,83.24,2025-12-20 22:23:22
-C003,Desk Lamp,Home,43.98,2025-08-20 10:27:19
-D002,Desk Lamp,Home,49.06,2025-12-15 02:43:22
-A004,Coffee Maker,Home,129.89,2025-08-25 08:11:29
-D001,Coffee Maker,Home,129.22,2026-01-24 23:14:04
-B003,Coffee Maker,Home,116.4,2026-01-29 01:48:10
-C004,Bluetooth Speaker,Electronics,56.96,2025-03-08 06:26:33
-B003,Smartphone,Electronics,983.27,2025-11-04 12:11:34
-C003,Coffee Maker,Home,116.68,2025-04-15 07:03:09
-A002,Laptop Sleeve,Accessories,30.22,2025-05-01 11:57:25
-C001,T-Shirt,Clothing,53.13,2026-02-25 09:16:38
-B001,Backpack,Accessories,87.52,2025-09-18 20:55:50
-B002,Jeans,Clothing,80.54,2025-03-13 23:57:10
-B001,Sneakers,Shoes,193.19,2025-09-04 03:51:17
-C001,T-Shirt,Clothing,45.31,2025-04-28 14:26:34
-C001,Running Shorts,Clothing,37.72,2025-05-31 22:22:47
-D003,Desk Lamp,Home,48.11,2025-05-19 08:56:16
-C004,Running Shorts,Clothing,34.83,2025-12-20 18:58:30
-A001,Jeans,Clothing,72.66,2025-01-23 09:08:09
-B002,Bluetooth Speaker,Electronics,52.85,2025-08-07 01:30:09
-C004,Coffee Maker,Home,120.67,2025-10-21 13:07:22
-C004,Running Shorts,Clothing,37.63,2025-12-23 23:20:29
-A004,Water Bottle,Accessories,26.73,2025-11-15 09:26:39
-D004,Water Bottle,Accessories,23.37,2025-02-18 17:21:24
-D003,Bluetooth Speaker,Electronics,57.36,2025-08-26 13:56:49
-D004,Running Shorts,Clothing,36.56,2025-03-04 08:47:17
-A002,Water Bottle,Accessories,27.21,2026-02-10 10:21:44
-B002,Bluetooth Speaker,Electronics,56.19,2025-03-26 08:19:28
-A004,Bluetooth Speaker,Electronics,56.32,2025-04-04 23:58:28
-D004,Desk Lamp,Home,44.09,2026-01-02 19:47:24
-C004,Jeans,Clothing,75.6,2026-02-27 16:06:32
-D002,Smartphone,Electronics,975.56,2026-02-12 03:16:50
-A002,Smartphone,Electronics,898.68,2025-02-05 08:07:05
-A003,T-Shirt,Clothing,52.26,2025-03-17 02:04:25
-D003,Jeans,Clothing,84.46,2026-01-15 22:26:48
-D001,Running Shorts,Clothing,34.74,2025-10-16 17:29:17
+A001,Smartphone,Electronics,980.78,2026-01-07 07:46:27
+A004,Running Shorts,Clothing,32.11,2025-12-01 11:35:06
+D004,Jeans,Clothing,80.15,2025-12-27 06:59:23
+A002,Yoga Mat,Fitness,38.42,2025-06-29 11:21:06
+D001,Water Bottle,Accessories,25.76,2025-05-15 21:00:18
+A001,Desk Lamp,Home,44.4,2025-02-18 01:35:10
+A004,Laptop Sleeve,Accessories,30.3,2025-12-16 18:33:21
+A002,Desk Lamp,Home,42.15,2025-11-27 09:50:54
+C002,Bluetooth Speaker,Electronics,51.13,2025-07-02 16:25:20
+B002,Desk Lamp,Home,48.0,2025-10-27 22:22:51
+C001,Smartphone,Electronics,934.53,2025-03-23 07:54:08
+D002,Water Bottle,Accessories,25.34,2025-01-10 21:29:19
+C004,Jeans,Clothing,81.28,2025-10-02 10:50:34
+B003,Yoga Mat,Fitness,41.77,2025-02-01 11:35:20
+C001,Jeans,Clothing,73.42,2025-12-23 20:34:56
+D003,Jeans,Clothing,72.7,2025-09-22 23:44:01
+A003,Smartphone,Electronics,813.4,2025-05-01 00:12:34
+D001,Backpack,Accessories,93.91,2025-04-23 03:06:27
+C002,Jeans,Clothing,79.3,2025-09-14 22:28:15
+C001,Running Shorts,Clothing,32.58,2025-08-09 02:10:40
+B004,Running Shorts,Clothing,34.95,2025-07-13 12:56:27
+B001,Laptop Sleeve,Accessories,30.53,2026-02-14 22:59:11
+B002,Jeans,Clothing,86.77,2025-03-14 16:05:29
+C004,Smartphone,Electronics,896.08,2025-09-17 20:10:05
+B001,Running Shorts,Clothing,34.61,2025-09-21 16:25:51
+C001,Smartphone,Electronics,987.02,2026-01-06 05:05:11
+C004,Jeans,Clothing,86.49,2025-10-10 21:05:23
+B004,Bluetooth Speaker,Electronics,57.97,2025-03-01 14:45:49
+A001,Water Bottle,Accessories,25.0,2025-03-12 22:55:42
+A004,Jeans,Clothing,83.12,2025-07-20 03:36:35
+A002,Coffee Maker,Home,122.57,2025-04-12 22:41:24
+D002,Sneakers,Shoes,201.18,2025-12-30 16:42:17
+A002,Desk Lamp,Home,40.62,2025-02-05 20:18:05
+C001,Jeans,Clothing,82.37,2025-11-25 17:53:05
+A002,Bluetooth Speaker,Electronics,50.17,2025-04-23 09:47:04
+C002,Laptop Sleeve,Accessories,27.99,2025-08-24 10:13:35
+A002,Smartphone,Electronics,922.19,2026-01-01 19:28:55
+C001,Desk Lamp,Home,49.14,2025-05-14 21:02:21
+D003,Backpack,Accessories,95.22,2025-05-03 07:32:25
+A003,Running Shorts,Clothing,34.21,2025-09-26 06:36:04
+D002,Sneakers,Shoes,187.92,2025-08-02 08:53:56
+B003,Running Shorts,Clothing,31.75,2025-05-23 09:12:18
+A004,T-Shirt,Clothing,52.14,2026-02-20 20:39:33
+A004,Backpack,Accessories,93.22,2025-09-23 15:57:25
+B002,T-Shirt,Clothing,49.08,2025-12-21 19:48:40
+B002,Sneakers,Shoes,181.68,2026-02-19 12:10:41
+B001,Smartphone,Electronics,927.69,2025-02-09 11:02:59
+B004,Backpack,Accessories,87.24,2026-02-19 00:02:11
+A002,Water Bottle,Accessories,23.91,2026-01-11 11:34:12
+C001,Coffee Maker,Home,112.9,2025-03-30 08:06:52
+C003,T-Shirt,Clothing,51.42,2025-05-09 11:03:01
+B004,T-Shirt,Clothing,53.47,2025-08-27 00:58:52
+D002,Backpack,Accessories,94.54,2025-01-10 17:07:27
+B003,T-Shirt,Clothing,48.87,2025-01-23 15:34:07
+A003,Water Bottle,Accessories,27.1,2025-01-26 19:56:04
+D004,Coffee Maker,Home,116.21,2025-10-03 17:47:08
+C003,Sneakers,Shoes,210.36,2025-06-29 00:00:50
+C002,Yoga Mat,Fitness,36.19,2025-04-17 12:07:39
+A002,Laptop Sleeve,Accessories,32.94,2025-07-25 08:42:07
+D004,Desk Lamp,Home,43.55,2025-01-25 10:34:53
+B004,Jeans,Clothing,83.65,2025-10-11 09:03:06
+B004,Coffee Maker,Home,122.2,2026-03-02 22:10:26
+C001,Laptop Sleeve,Accessories,29.75,2025-02-25 19:19:38
+B004,Coffee Maker,Home,130.48,2026-01-28 19:09:50
+C002,Backpack,Accessories,90.85,2026-02-07 22:30:38
+B001,Backpack,Accessories,86.12,2025-01-20 05:53:44
+A003,Desk Lamp,Home,48.57,2025-07-04 08:55:16
+A003,Laptop Sleeve,Accessories,28.0,2025-08-31 10:21:53
+B001,Laptop Sleeve,Accessories,28.63,2025-11-26 02:10:30
+C003,Running Shorts,Clothing,33.42,2025-09-16 11:37:07
+D004,Bluetooth Speaker,Electronics,55.31,2025-09-12 00:25:13
+B002,T-Shirt,Clothing,54.06,2025-05-30 12:49:47
+B004,Backpack,Accessories,89.37,2026-01-14 09:09:20
+C003,Water Bottle,Accessories,25.35,2025-10-08 15:33:10
+C001,Sneakers,Shoes,189.17,2025-01-09 15:01:10
+D002,Yoga Mat,Fitness,38.64,2025-12-25 00:21:53
+C002,Smartphone,Electronics,906.57,2025-02-28 09:25:00
+A003,Laptop Sleeve,Accessories,29.05,2025-08-07 05:08:15
+D002,Laptop Sleeve,Accessories,31.22,2025-03-27 17:48:28
+D004,Laptop Sleeve,Accessories,32.4,2025-12-11 08:23:44
+B002,T-Shirt,Clothing,47.85,2026-02-11 07:14:36
+D004,Running Shorts,Clothing,32.14,2026-02-27 08:08:00
+A004,Water Bottle,Accessories,24.71,2025-03-26 07:18:31
+A003,Backpack,Accessories,98.13,2025-01-30 17:53:58
+B004,Backpack,Accessories,95.82,2025-10-21 06:47:06
+D001,Bluetooth Speaker,Electronics,56.35,2025-10-27 14:56:54
+D002,Jeans,Clothing,86.52,2025-01-15 21:48:06
+A003,Smartphone,Electronics,917.3,2025-09-07 15:26:48
+A004,Yoga Mat,Fitness,40.38,2025-04-10 12:34:55
+C004,Jeans,Clothing,75.08,2025-06-24 22:13:31
+A004,Backpack,Accessories,87.51,2025-03-18 04:02:11
+A002,Coffee Maker,Home,110.97,2025-03-12 14:44:11
+A002,Jeans,Clothing,74.54,2025-01-29 12:53:22
+C004,Sneakers,Shoes,201.26,2025-02-05 15:59:38
+D004,T-Shirt,Clothing,52.35,2025-09-18 09:52:06
+C002,Sneakers,Shoes,186.7,2026-01-22 05:03:57
+B004,Smartphone,Electronics,928.94,2025-03-15 12:07:28
+A001,Desk Lamp,Home,46.0,2025-11-23 06:55:21
+D001,Laptop Sleeve,Accessories,28.14,2025-07-11 19:52:05
+D004,Backpack,Accessories,82.14,2025-11-07 19:08:04
+C003,Running Shorts,Clothing,34.51,2025-07-27 19:05:02
+D002,Bluetooth Speaker,Electronics,52.29,2025-04-20 06:05:17
+A004,Desk Lamp,Home,45.25,2025-01-03 14:37:55
+A003,Sneakers,Shoes,183.5,2025-04-20 14:40:58
+A003,Laptop Sleeve,Accessories,29.07,2025-04-02 21:29:32
+A004,T-Shirt,Clothing,49.72,2026-01-24 22:51:10
+A001,Running Shorts,Clothing,38.21,2025-01-07 19:12:36
+B001,T-Shirt,Clothing,49.31,2025-07-10 06:56:06
+B003,Running Shorts,Clothing,35.44,2025-11-14 06:28:57
+A002,Smartphone,Electronics,881.57,2026-03-03 22:55:50
+C003,T-Shirt,Clothing,47.96,2025-11-20 12:50:39
+B002,T-Shirt,Clothing,54.13,2025-12-30 14:26:19
+D001,Sneakers,Shoes,205.72,2026-02-05 20:40:00
+A002,Running Shorts,Clothing,34.06,2025-08-06 15:58:28
+D003,Sneakers,Shoes,219.18,2025-12-13 11:53:37
+A003,Laptop Sleeve,Accessories,29.18,2025-07-13 22:27:34
+B004,Laptop Sleeve,Accessories,32.1,2026-01-26 07:10:23
+B004,T-Shirt,Clothing,46.56,2025-12-15 05:18:03
+C001,Coffee Maker,Home,130.55,2025-03-10 13:21:13
+A004,Coffee Maker,Home,127.86,2025-01-06 09:08:46
+C002,Running Shorts,Clothing,34.45,2025-08-17 08:28:06
+B004,Laptop Sleeve,Accessories,29.79,2026-02-12 01:01:27
+D004,Laptop Sleeve,Accessories,27.95,2025-01-12 08:41:16
+C002,Smartphone,Electronics,897.27,2025-10-29 02:12:19
+B001,Water Bottle,Accessories,26.08,2025-05-22 04:22:07
+D004,Desk Lamp,Home,40.71,2025-09-05 18:11:03
+A004,Yoga Mat,Fitness,42.88,2026-01-25 04:39:14
+B002,Bluetooth Speaker,Electronics,59.33,2026-02-22 08:28:12
+A003,Coffee Maker,Home,125.14,2025-12-26 19:39:43
+B001,Water Bottle,Accessories,25.88,2025-03-10 14:11:45
+A003,Running Shorts,Clothing,33.42,2025-05-07 07:20:27
+C003,Jeans,Clothing,84.59,2026-02-10 04:59:40
+B001,Desk Lamp,Home,49.27,2025-12-24 20:02:18
+B004,Backpack,Accessories,93.29,2025-06-11 23:16:21
+B004,Coffee Maker,Home,119.93,2025-02-01 03:36:49
+C004,Yoga Mat,Fitness,39.05,2025-04-23 16:48:34
+C003,Water Bottle,Accessories,24.66,2025-03-07 01:45:25
+C001,Laptop Sleeve,Accessories,27.08,2025-12-25 19:29:24
+A004,Sneakers,Shoes,204.97,2025-11-05 14:54:27
+D001,Sneakers,Shoes,196.42,2025-01-31 10:44:23
+A004,Jeans,Clothing,83.62,2025-03-02 00:06:00
+B001,Running Shorts,Clothing,33.4,2025-10-08 23:01:20
+A004,Water Bottle,Accessories,27.27,2025-08-03 14:52:52
+D004,T-Shirt,Clothing,53.53,2026-01-31 01:12:45
+B002,Jeans,Clothing,72.89,2025-09-02 22:48:01
+A002,T-Shirt,Clothing,45.01,2025-07-31 17:31:40
+B001,Backpack,Accessories,85.94,2025-05-19 05:48:47
+D003,T-Shirt,Clothing,45.39,2025-03-13 03:19:12
+C003,Sneakers,Shoes,187.48,2025-02-10 02:29:44
+B003,Smartphone,Electronics,815.45,2025-06-16 16:34:52
+C002,Jeans,Clothing,83.32,2025-10-07 03:31:11
+C001,Laptop Sleeve,Accessories,28.11,2025-04-28 06:19:36
+B003,Coffee Maker,Home,129.6,2025-04-26 09:27:21
+B004,Desk Lamp,Home,48.59,2025-03-16 11:53:34
+D001,Smartphone,Electronics,834.94,2025-08-24 05:01:34
+C001,Backpack,Accessories,94.24,2025-08-31 18:03:18
+B001,Laptop Sleeve,Accessories,32.53,2025-03-18 00:13:17
+A003,Laptop Sleeve,Accessories,29.25,2025-05-08 00:08:36
+A004,Running Shorts,Clothing,33.27,2025-04-27 01:07:00
+C001,Sneakers,Shoes,211.15,2025-04-03 21:32:50
+A004,Jeans,Clothing,79.56,2025-06-07 05:50:29
+D004,Jeans,Clothing,87.11,2025-10-09 09:17:33
+D002,Jeans,Clothing,83.41,2025-08-02 08:27:03
+A003,Jeans,Clothing,76.01,2025-03-25 11:28:53
+C004,Sneakers,Shoes,181.82,2025-02-02 13:12:51
+D003,Running Shorts,Clothing,36.69,2025-12-30 01:35:23
+C002,Running Shorts,Clothing,34.65,2025-12-18 23:12:20
+A002,T-Shirt,Clothing,53.94,2026-01-29 13:15:10
+C002,Jeans,Clothing,82.33,2025-12-23 05:49:45
+A002,Sneakers,Shoes,184.62,2025-07-30 05:26:28
+A004,Water Bottle,Accessories,22.56,2025-04-09 01:42:53
+D002,Desk Lamp,Home,45.06,2025-03-19 01:16:39
+C004,Jeans,Clothing,86.31,2025-06-26 11:42:12
+C004,Backpack,Accessories,82.65,2026-01-24 18:14:16
+C004,Coffee Maker,Home,115.23,2025-07-05 23:38:18
+C001,Water Bottle,Accessories,27.24,2025-11-07 21:47:21
+A002,Smartphone,Electronics,893.73,2025-02-06 05:37:20
+D004,Backpack,Accessories,98.62,2025-12-26 15:32:31
+D004,Laptop Sleeve,Accessories,28.1,2025-08-11 04:42:48
+D004,T-Shirt,Clothing,49.84,2025-01-01 22:45:59
+C004,Running Shorts,Clothing,32.77,2025-11-06 11:18:29
+B001,Yoga Mat,Fitness,38.12,2025-04-29 07:47:07
+D003,Smartphone,Electronics,858.66,2025-05-01 13:11:49
+A004,Water Bottle,Accessories,27.5,2026-01-27 01:01:48
+C003,Backpack,Accessories,96.51,2025-12-05 20:36:30
+B001,Desk Lamp,Home,48.5,2026-02-01 21:17:39
+B004,Jeans,Clothing,87.25,2025-02-02 08:59:07
+A002,Running Shorts,Clothing,35.98,2025-01-31 20:31:19
+D001,Coffee Maker,Home,120.94,2026-01-18 02:08:23
+C001,Running Shorts,Clothing,34.62,2025-04-13 19:41:22
+D003,Running Shorts,Clothing,36.0,2025-12-19 22:16:30
+D004,Laptop Sleeve,Accessories,28.63,2026-01-25 04:39:07
+C001,Coffee Maker,Home,112.14,2025-07-25 06:55:49
+D002,Water Bottle,Accessories,27.43,2025-05-13 12:21:38
+C003,T-Shirt,Clothing,47.02,2025-10-24 01:57:38
+B002,Laptop Sleeve,Accessories,27.07,2025-09-23 02:46:56
+A002,Laptop Sleeve,Accessories,30.57,2025-10-15 02:03:50
+B001,Bluetooth Speaker,Electronics,54.18,2025-06-04 15:05:54
+C004,Sneakers,Shoes,184.87,2025-02-12 20:28:10
+D002,Bluetooth Speaker,Electronics,60.53,2025-04-06 13:42:07
