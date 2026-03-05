@@ -120,14 +120,10 @@ if __name__ == "__main__":
     profit_per_category = calculate_profit_per_category(revenue_per_category)
 
     print("=== Business Insight ===")
-    print(
-        f"The best month was {best_month[0]}, with a total revenue of ${best_month[1]:.2f}")
-    print(
-        f"The worst month was {worst_month[0]}, with a total revenue of ${worst_month[1]:.2f}")
-    print(
-        f"{top_category[0]} represent %{top_category_proportion:.1f} of total revenue. Business is highly dependent on this category")
-    print(
-        f"The total profit of all revenues was ${total_profit:.2f}")
+    print(f"The best month was {best_month[0]}, with a total revenue of ${best_month[1]:.2f}")
+    print(f"The worst month was {worst_month[0]}, with a total revenue of ${worst_month[1]:.2f}")
+    print(f"{top_category[0]} represent %{top_category_proportion:.1f} of total revenue. Business is highly dependent on this category")
+    print(f"The total profit of all revenues was ${total_profit:.2f}")
     print("------------------------")
     print("Profit per category")
     for c, p in profit_per_category.items():
