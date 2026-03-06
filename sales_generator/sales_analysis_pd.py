@@ -4,7 +4,6 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
 FILENAME = SCRIPT_DIR / "sales.csv"
-TIMEFORMAT = "%Y-%m-%d %H:%M:%S"
 
 
 df = pd.read_csv(FILENAME)
@@ -75,6 +74,6 @@ print("=== Customer with the most purchases ===============")
 most_purchases_customer = df["customer_id"].value_counts().head(1)
 print(most_purchases_customer)
 
-print("=== Smallest and biggest price per product =========")
+print("=== Lowest and Highest price per product =========")
 extreme_sales = df.groupby("product_name")["price"].agg(["min", "max"])
 print(extreme_sales)
