@@ -4,7 +4,6 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
 FILENAME = SCRIPT_DIR / "sales.csv"
-TIMEFORMAT = "%Y-%m-%d %H:%M:%S"
 
 
 df = pd.read_csv(FILENAME)
