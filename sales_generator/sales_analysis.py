@@ -14,17 +14,17 @@ print(df.head())
 print(df.info())
 
 print("\n=== Top product by revenue =======================")
-revenue_by_product = df.groupby("product_name")["price"].sum().sort_values(ascending=False)
+revenue_by_product = df.groupby("product_name")["price"].sum()
 top_product = revenue_by_product.idxmax()
 print(f"{top_product}: ${revenue_by_product[top_product]:.2f}")
 
 print("\n=== Top category by sales count ==================")
-sellings_per_category = df["category"].value_counts().sort_values(ascending=False)
+sellings_per_category = df["category"].value_counts()
 top_category = sellings_per_category.idxmax()
 print(f"{top_category}: {sellings_per_category[top_category]}")
 
 print("\n=== Top customer by revenue ======================")
-revenue_by_customer = df.groupby("customer_id")["price"].sum().sort_values(ascending=False)
+revenue_by_customer = df.groupby("customer_id")["price"].sum()
 top_customer = revenue_by_customer.idxmax()
 print(f"{top_customer}: ${revenue_by_customer[top_customer]:.2f}")
 
