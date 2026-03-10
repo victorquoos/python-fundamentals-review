@@ -1,3 +1,6 @@
 expense_analyzer/expenses.csv
 sales_data_analysis/sales.csv
 sales_data_analysis/report_summary.csv
+olist_real_dataset/olist_orders_dataset.csv
+olist_real_dataset/olist_order_items_dataset.csv
+__pycache__/
