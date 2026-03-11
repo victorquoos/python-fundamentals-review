@@ -5,3 +5,5 @@ olist_real_dataset/olist_orders_dataset.csv
 olist_real_dataset/olist_order_items_dataset.csv
 __pycache__/
 .ipynb_checkpoints/
+olist_real_dataset/olist_customers_dataset.csv
+olist_real_dataset/olist_products_dataset.csv
